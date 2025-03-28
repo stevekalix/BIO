@@ -1,0 +1,45 @@
+section{
+    background-color:aqua;
+    margin-top:3px;
+    margin-left:3px;
+    display:flex;
+
+}
+body{
+    background-color:aqua;
+    border-width:2px;
+    margin:30px;
+    box-shadow: 20px 10px 20px rgba(59, 54, 54, 0.1);
+
+}
+#one{
+    display: inline-block;
+    margin-left: 20px;
+}
+#two{
+    display: inline-block;
+    margin-left:50%;
+    margin-top:30px;
+
+}
+
+#three{
+    display: inline-block;
+    margin-left: 20px;
+}
+#four{
+    display: inline-block;
+    margin-left:20px;
+}
+#seven{
+    display: inline-block;
+    margin-left:3cm;
+
+}
+#five{
+    display: inline-block;
+    margin-left:20px;
+}
+h1{
+    color:slateblue;
+}
